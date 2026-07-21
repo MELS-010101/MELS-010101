@@ -59,17 +59,6 @@ A from-scratch corporate IT infrastructure on Windows Server 2022: Active Direct
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MELS-010101&show_icons=true&theme=transparent&title_color=0052FF&icon_color=0052FF&text_color=8A9098&border_color=EAEAEA)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MELS-010101&layout=compact&theme=transparent&title_color=0052FF&text_color=8A9098&border_color=EAEAEA)
-
-</div>
-
----
 
 ## 🌱 Currently learning / roadmap
 
@@ -90,6 +79,7 @@ A from-scratch corporate IT infrastructure on Windows Server 2022: Active Direct
 *“A good engineer isn't the one who knows everything — but the one who can figure it out and ship it.”*
 
 </div>
+
 ---
 
 ## 🐍 Contributions
