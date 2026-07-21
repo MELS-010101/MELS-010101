@@ -90,3 +90,12 @@ A from-scratch corporate IT infrastructure on Windows Server 2022: Active Direct
 *“A good engineer isn't the one who knows everything — but the one who can figure it out and ship it.”*
 
 </div>
+---
+
+## 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MELS-010101/MELS-010101/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MELS-010101/MELS-010101/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MELS-010101/MELS-010101/output/github-snake.svg" />
+</picture>
