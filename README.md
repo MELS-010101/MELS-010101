@@ -1,83 +1,63 @@
-<div align="center">
+# Привет, я MELS 👋
 
-# Hi, I'm MELS 👋
+**Системный администратор → DevOps-инженер**
 
-### System Administrator → DevOps Engineer
+*Строю надёжную инфраструктуру, один контейнер за раз.*
 
-*Building reliable infrastructure, one container at a time.*
-
-[![Learning](https://img.shields.io/badge/status-learning%20in%20public-0052FF?style=flat-square)](#)
-[![Focus](https://img.shields.io/badge/focus-infra%20%7C%20containers%20%7C%20CI-1A1D20?style=flat-square)](#)
-[![Site](https://img.shields.io/badge/portfolio-live-00C853?style=flat-square)](https://mels-010101.github.io/mels-portal-docker/)
-
-</div>
+`статус` учусь публично `фокус` инфраструктура | контейнеры | CI `портфолио` активно
 
 ---
 
-## 🧑‍💻 About
+## 👤 Обо мне
 
-I'm learning system administration with a clear goal — becoming a **DevOps engineer**.
-I like infrastructure as code, automating the boring stuff, and building systems that run without a human in the loop.
-Every project here is a step from theory to real, working practice.
+Изучаю системное администрирование с чёткой целью — стать DevOps-инженером. Мне нравится подход «инфраструктура как код», автоматизация рутины и построение систем, которые работают без постоянного вмешательства человека. Каждый проект здесь — шаг от теории к реальной рабочей практике.
 
 ---
 
-## 🧰 Tech stack
+## 🛠 Технологический стек
 
-**OS & Infra**
-![Windows Server](https://img.shields.io/badge/Windows_Server-2022-0052FF?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-1A1D20?style=flat-square&logo=ubuntu&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-AD_DS-0052FF?style=flat-square)
-![Group Policy](https://img.shields.io/badge/Group_Policy-GPO-1A1D20?style=flat-square)
+**ОС и инфраструктура**
+`Windows Server 2022` `Linux` `Ubuntu` `Active Directory` `AD DS` `Group Policy` `GPO`
 
-**Containers & Web**
-![Docker](https://img.shields.io/badge/Docker-containers-2496ED?style=flat-square&logo=docker&logoColor=white)
-![nginx](https://img.shields.io/badge/nginx-web_server-009639?style=flat-square&logo=nginx&logoColor=white)
-![IIS](https://img.shields.io/badge/IIS-web_server-0052FF?style=flat-square)
+**Контейнеры и веб-серверы**
+`Docker` `контейнеры` `nginx` `веб-сервер` `IIS` `веб-сервер`
 
-**Automation & CI/CD**
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-automation-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-version_control-F05032?style=flat-square&logo=git&logoColor=white)
+**Автоматизация и CI/CD**
+`GitHub Actions` `CI/CD` `PowerShell` `автоматизация` `Bash` `shell` `Git` `контроль версий`
 
 ---
 
-## 🚀 Featured projects
+## 🚀 Избранные проекты
 
-### 🐳 MELS Portal — Dockerized Portfolio
-[![Deploy](https://github.com/MELS-010101/mels-portal-docker/actions/workflows/deploy.yml/badge.svg)](https://github.com/MELS-010101/mels-portal-docker/actions)
-[![Docker CI](https://github.com/MELS-010101/mels-portal-docker/actions/workflows/docker-ci.yml/badge.svg)](https://github.com/MELS-010101/mels-portal-docker/actions)
-[![Live](https://img.shields.io/badge/live-GitHub_Pages-0052FF?style=flat-square)](https://mels-010101.github.io/mels-portal-docker/)
+### 🌐 MELS Portal — контейнеризированное портфолио
 
-A strict, tech-styled portfolio site (light/dark theme, RU/EN) packed into a Docker container (`nginx:alpine`) and auto-deployed to GitHub Pages via CI/CD — with an automated build & smoke test on every push.
+`Deploy to GitHub Pages` ✅ проходит `Docker CI (сборка и smoke-тест)` ✅ проходит `live` GitHub Pages
 
-### 🏢 Windows Server AD Lab
-[![Repo](https://img.shields.io/badge/repo-windows--server--ad--lab-1A1D20?style=flat-square)](https://github.com/MELS-010101/windows-server-ad-lab)
+Строгое техническое портфолио (светлая/тёмная тема, RU/EN), упакованное в Docker-контейнер (`nginx:alpine`) и автоматически разворачиваемое на GitHub Pages через CI/CD — с автоматической сборкой и smoke-тестом при каждом push.
 
-A from-scratch corporate IT infrastructure on Windows Server 2022: Active Directory, Group Policy, IIS internal portal, firewall rules and a backup system.
+### 🖥 Windows Server AD Lab
 
----
+`репо` windows-server-ad-lab
 
-
-## 🌱 Currently learning / roadmap
-
-- `Ansible` — configuration management & IaC
-- `Kubernetes` — container orchestration
-- `Linux` hardening & real-server deployment (VPS)
+Корпоративная IT-инфраструктура с нуля на Windows Server 2022: Active Directory, Group Policy, внутренний портал на IIS, правила файрвола и система резервного копирования.
 
 ---
 
-## 📬 Connect
+## 🌱 Сейчас изучаю / дорожная карта
 
-[![GitHub](https://img.shields.io/badge/GitHub-MELS--010101-1A1D20?style=flat-square&logo=github&logoColor=white)](https://github.com/MELS-010101)
+- **Ansible** — управление конфигурациями и IaC
+- **Kubernetes** — оркестрация контейнеров
+- **Linux hardening** и развёртывание на реальном сервере (VPS)
 
 ---
 
-<div align="center">
+## 📬 Контакты
 
-*“A good engineer isn't the one who knows everything — but the one who can figure it out and ship it.”*
+**GitHub:** MELS-010101
 
+---
+
+> *«Хороший инженер — не тот, кто знает всё, а тот, кто может разобраться и довести дело до конца».*
 </div>
 
 ---
