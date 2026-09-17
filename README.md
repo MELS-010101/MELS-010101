@@ -27,15 +27,13 @@
 
 ---
 
-## 🚀 Избранные проекты
+## 🚀 Проекты
 
-### 🌐 [MELS Portal — контейнеризированное портфолио](https://github.com/mels-010101/mels-portal-docker) · [live-демо](https://mels-010101.github.io/mels-portal-docker/)
-
-Сайт-портфолио (RU/EN, светлая/тёмная тема) в Docker-контейнере на `nginx:alpine`.
-
+### 🌐 [MELS Portal](https://github.com/mels-010101/mels-portal-docker) · [live](https://mels-010101.github.io/mels-portal-docker/)
+Личный сайт: статика в Docker-контейнере (`nginx:alpine`), сборка, smoke-тест
+и деплой на GitHub Pages через GitHub Actions.
 
 ### 🖥 [Windows Server AD Lab](https://github.com/mels-010101/windows-server-ad-lab)
-
 Корпоративная инфраструктура с нуля на Windows Server 2022: Active Directory,
 Group Policy, внутренний портал на IIS, файрвол и резервное копирование.
 
