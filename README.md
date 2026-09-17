@@ -29,17 +29,15 @@
 
 ## 🚀 Избранные проекты
 
-### 🌐 MELS Portal — контейнеризированное портфолио
+### 🌐 [MELS Portal — контейнеризированное портфолио](https://github.com/mels-010101/твой-репо)
+![Docker CI (сборка и smoke-тест)](badge) ![live: GitHub Pages](badge)
 
-`Deploy to GitHub Pages` ✅ проходит `Docker CI (сборка и smoke-тест)` ✅ проходит `live` GitHub Pages
+Сайт-портфолио (RU/EN, светлая/тёмная тема) в Docker-контейнере на `nginx:alpine`.
 
-Строгое техническое портфолио (светлая/тёмная тема, RU/EN), упакованное в Docker-контейнер (`nginx:alpine`) и автоматически разворачиваемое на GitHub Pages через CI/CD — с автоматической сборкой и smoke-тестом при каждом push.
+### 🖥 [Windows Server AD Lab](https://github.com/mels-010101/windows-server-ad-lab)
 
-### 🖥 Windows Server AD Lab
-
-`репо` windows-server-ad-lab
-
-Корпоративная IT-инфраструктура с нуля на Windows Server 2022: Active Directory, Group Policy, внутренний портал на IIS, правила файрвола и система резервного копирования.
+Корпоративная инфраструктура с нуля на Windows Server 2022: Active Directory,
+Group Policy, внутренний портал на IIS, файрвол и резервное копирование.
 
 ---
 
