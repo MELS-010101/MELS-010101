@@ -29,14 +29,17 @@
 
 ## 🚀 Проекты
 
-### 🌐 [MELS Portal](https://github.com/mels-010101/mels-portal-docker) · [live](https://mels-010101.github.io/mels-portal-docker/)
+### 🤖 [infra-ansible](https://github.com/MELS-010101/infra-ansible)
+Инфраструктура как код на Ansible: LEMP-стек, мониторинг (Prometheus + Grafana),
+харденинг, шифрованные бэкапы и алерты в Telegram. Всё прогоняется через CI/CD.
+
+### 🌐 [MELS Portal](https://github.com/MELS-010101/mels-portal-docker) · [live](https://mels-010101.github.io/mels-portal-docker/)
 Личный сайт: статика в Docker-контейнере (`nginx:alpine`), сборка, smoke-тест
 и деплой на GitHub Pages через GitHub Actions.
 
-### 🖥 [Windows Server AD Lab](https://github.com/mels-010101/windows-server-ad-lab)
+### 🖥 [Windows Server AD Lab](https://github.com/MELS-010101/windows-server-ad-lab)
 Корпоративная инфраструктура с нуля на Windows Server 2022: Active Directory,
 Group Policy, внутренний портал на IIS, файрвол и резервное копирование.
-
 ---
 
 ## 🌱 Сейчас изучаю / дорожная карта
